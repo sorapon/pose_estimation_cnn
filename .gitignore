@@ -1,3 +1,4 @@
 /result/*
 /datasets/*
-/*.pyc
+*.pyc
+*.ipynb
